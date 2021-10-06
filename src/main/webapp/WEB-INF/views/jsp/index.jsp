@@ -41,8 +41,8 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h2>Welcome To Surya's first docker tutorial deployment, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h3>Welcome To Surya's first docker tutorial deployment, Marathahalli, Banglore.</h3>
+			<h4>Contact @ +91-8296242028 ,+91-9980923226</h4>
 		</div>	
 	</div>
 
